@@ -78,5 +78,16 @@ img{
     object-fit: cover;
     border-radius: 20px;
 }
-
+#img1{
+    transform: translate(-50%, -50%) rotate(-30deg);
+}
+#img2{
+      transform: translate(-50%, -50%) rotate(-20deg);
+}
+#img3{
+      transform: translate(-50%, -50%) rotate(-10deg);
+}
+#img4{
+      transform: translate(-50%, -50%) rotate(0deg);
+}
 
