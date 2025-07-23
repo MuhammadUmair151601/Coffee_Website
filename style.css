@@ -95,4 +95,11 @@ img{
     bottom: 5%;
     left: 5%;
 }
-
+#btm-right{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+#btm-right i{
+    margin: 5px;
+}
